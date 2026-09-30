@@ -1,16 +1,10 @@
-*{margin: 0px;
-padding: 0px;}
-.carousel-caption{
 
-    top: 39%}
-.slider li{
+.header-home{
+background-image: url(../img/download.jpg);
+}
 
-width: 15px;
-height: 15px;
-border-radius: 50%;
 
-    }
-.react{
-font-size: 30px;
-    
+.in-touch{
+background-image:url(../img/Path\ 62.png) ,url(../img/i-love-my-job-so-much_329181-2178.png);
+
 }
